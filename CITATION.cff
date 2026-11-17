@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you reference GO2ABROAD Visa in your research or software, please cite it using this metadata."
+title: "GO2ABROAD Visa: Real-Time Global Passport Ranking & Bilateral Visa Matrix"
+authors:
+  - family-names: Cheung
+    given-names: Peter
+    affiliation: TRANSCEND DATA
+url: "https://visa.go2abroad.space"
+repository-code: "https://github.com/go2abroad-visa/go2abroad-visa"
+license: CC-BY-4.0
+doi: "10.5281/zenodo.24298154"
+keywords:
+  - passport-index
+  - visa-requirements
+  - bilateral-mobility
+  - cross-border-compliance
+  - mcp-server
