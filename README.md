@@ -24,6 +24,8 @@ tags:
 
 # 🌍 GO2ABROAD Visa
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24298154.svg)](https://doi.org/10.5281/zenodo.24298154)
+
 **Real-Time Global Passport Ranking, Bilateral Visa-Free Matrix & Cross-Border Entry Rules Hub**  
 🌐 **Live Service & Full Interactive Portal:** [https://visa.go2abroad.space](https://visa.go2abroad.space)
 
@@ -163,6 +165,8 @@ tags:
 @misc{go2abroad_visa,
   author       = {Cheung, Peter and {TRANSCEND DATA}},
   title        = {GO2ABROAD Visa: Real-Time Global Passport Ranking & Bilateral Visa Matrix},
-  publisher    = {GO2ABROAD / Zenodo},
-  url          = {[https://visa.go2abroad.space](https://visa.go2abroad.space)}
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24298154},
+  url          = {https://doi.org/10.5281/zenodo.24298154}
 }
